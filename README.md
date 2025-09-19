@@ -1,5 +1,3 @@
-.
-
 🚢 **Predicting Titanic Survival with Machine Learning: A Historical Data Case Study**
 
 Applying machine learning to history — predicting passenger survival on the Titanic using Logistic Regression and real-world classification techniques.
